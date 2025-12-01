@@ -1,0 +1,10 @@
+{
+  "empty": {
+    "message": "Ziet eruit als een nieuw begin. Moge het begin van iets groots bij jou starten.",
+    "title": "Hier is nog niets... voorlopig!"
+  },
+  "noMatch": {
+    "message": "Het lijkt erop dat je zoekopdracht verstoppertje speelt. Probeer je criteria aan te passen en laten we vinden wat je zoekt.",
+    "title": "Geen resultaten... nog niet!"
+  }
+}

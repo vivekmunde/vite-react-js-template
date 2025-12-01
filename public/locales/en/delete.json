@@ -1,0 +1,4 @@
+{
+  "deleteConfirmDescription": "Deleting the record \"{{name}}\" is a permanent change and cannot be undone. Once it's deleted, it cannot be recovered.",
+  "deleteConfirmMessage": "Are you sure you want to delete \"{{name}}\"?"
+}

@@ -1,0 +1,18 @@
+{
+  "documentNumberPrefix": {
+    "required": "Document number prefix is required"
+  },
+  "email": {
+    "invalid": "Invalid email",
+    "required": "Email is required"
+  },
+  "name": {
+    "required": "Name is required"
+  },
+  "otp": {
+    "required": "OTP is required"
+  },
+  "role": {
+    "required": "Role is required"
+  }
+}

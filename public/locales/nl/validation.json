@@ -1,0 +1,18 @@
+{
+  "documentNumberPrefix": {
+    "required": "Documentnummer voorvoegsel is verplicht"
+  },
+  "email": {
+    "invalid": "Ongeldig e-mailadres",
+    "required": "E-mailadres is verplicht"
+  },
+  "name": {
+    "required": "Naam is verplicht"
+  },
+  "otp": {
+    "required": "OTP is verplicht"
+  },
+  "role": {
+    "required": "Rol is verplicht"
+  }
+}

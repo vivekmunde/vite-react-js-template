@@ -1,0 +1,28 @@
+{
+  "errorBoundary": {
+    "message": "Something went wrong. Maybe a quick refresh will do the trick?",
+    "title": "Uh-oh! A little hiccup!"
+  },
+  "network": {
+    "offline": {
+      "message": "Looks like your internet connection is taking an unscheduled coffee break. Mind checking if it's back from vacation?",
+      "title": "Hmmm, we've lost connection!"
+    }
+  },
+  "page": {
+    "401": {
+      "description_1": "It seems like you don’t have access to this page at the moment. ",
+      "description_2": "No worries though! If you think you should be able to see this, just give your administrator a quick shout.",
+      "title": "Oops! Access Restricted!"
+    },
+    "404": {
+      "message": "Well, this is awkward... The content you're looking appears to have vanished!",
+      "title": "Lost in space!"
+    },
+    "load": {
+      "message": "Uh-oh! Something went wrong while loading the page. Maybe a quick refresh will do the trick?",
+      "title": "Oops! The page tripped!"
+    }
+  },
+  "someErrorOccurred": "Some error occurred"
+}

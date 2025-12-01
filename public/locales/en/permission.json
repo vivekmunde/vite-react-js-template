@@ -1,0 +1,50 @@
+{
+  "MANAGE_FEATURE": {
+    "description": "Allows users to create, update, and manage application features.",
+    "title": "Manage application features"
+  },
+  "MANAGE_ORGANIZATION": {
+    "description": "Allows users to create, update, and manage organization-related settings and configurations.",
+    "title": "Manage organization details and configuration"
+  },
+  "MANAGE_PROJECT": {
+    "description": "Allows users to create, update, and manage project details, including basic details and assigned roles.",
+    "title": "Manage projects"
+  },
+  "MANAGE_ROLE": {
+    "description": "Grants users the ability to create, update, and delete roles, as well as manage role-based permissions.",
+    "title": "Manage roles"
+  },
+  "MANAGE_USER": {
+    "description": "Enables users to create, update, deactivate, or delete user accounts, including role assignments.",
+    "title": "Manage users"
+  },
+  "READ_ANALYTICS": {
+    "description": "Allows users to access and review application analytics for monitoring and troubleshooting purposes.",
+    "title": "View analytics"
+  },
+  "READ_ERROR": {
+    "description": "Allows users to access and review application error logs for monitoring and troubleshooting purposes.",
+    "title": "View error logs"
+  },
+  "READ_FEATURE": {
+    "description": "Allows users to access and review application features.",
+    "title": "View application features"
+  },
+  "READ_ORGANIZATION": {
+    "description": "Enables users to view organization details, such as company information, structure, and associated entities.",
+    "title": "View organization details"
+  },
+  "READ_PROJECT": {
+    "description": "Allows users to view project details, including basic details and assigned roles.",
+    "title": "View projects"
+  },
+  "READ_ROLE": {
+    "description": "Permits users to view role definitions, including assigned permissions and access levels.",
+    "title": "View roles"
+  },
+  "READ_USER": {
+    "description": "Allows users to view user accounts, including basic details and assigned roles.",
+    "title": "View users"
+  }
+}

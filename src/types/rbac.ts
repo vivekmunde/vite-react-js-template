@@ -1,0 +1,12 @@
+export type TPermission =
+  | 'READ_ANALYTICS'
+  | 'READ_ERROR'
+  | 'READ_PROJECT'
+  | 'MANAGE_PROJECT'
+  | 'READ_ORGANIZATION'
+  | 'MANAGE_ORGANIZATION'
+  | 'READ_ROLE'
+  | 'MANAGE_ROLE'
+  | 'READ_USER'
+  | 'MANAGE_USER'
+  | 'MANAGE_PROJECT';

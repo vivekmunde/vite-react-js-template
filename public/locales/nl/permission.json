@@ -1,0 +1,50 @@
+{
+  "MANAGE_FEATURE": {
+    "description": "Allows users to create, update, and manage application features.",
+    "title": "Manage application features"
+  },
+  "MANAGE_ORGANIZATION": {
+    "description": "Stelt gebruikers in staat om organisatiegerelateerde instellingen en configuraties te maken, bij te werken en te beheren.",
+    "title": "Beheer organisatiedetails en configuratie"
+  },
+  "MANAGE_PROJECT": {
+    "description": "Stelt gebruikers in staat om projectdetails te maken, bij te werken en te beheren, inclusief basisgegevens en toegewezen rollen.",
+    "title": "Beheer projecten"
+  },
+  "MANAGE_ROLE": {
+    "description": "Geeft gebruikers de mogelijkheid om rollen te maken, bij te werken en te verwijderen, evenals het beheren van rolgebaseerde machtigingen.",
+    "title": "Beheer rollen"
+  },
+  "MANAGE_USER": {
+    "description": "Stelt gebruikers in staat om gebruikersaccounts te maken, bij te werken, te deactiveren of te verwijderen, inclusief het toewijzen van rollen.",
+    "title": "Beheer gebruikers"
+  },
+  "READ_ANALYTICS": {
+    "description": "Hiermee kunnen gebruikers toegang krijgen tot en applicatieanalyses bekijken voor monitoring- en probleemoplossingsdoeleinden.",
+    "title": "Analyse bekijken"
+  },
+  "READ_ERROR": {
+    "description": "Hiermee kunnen gebruikers toegang krijgen tot en applicatiefoutenlogboeken bekijken voor monitoring- en probleemoplossingsdoeleinden.",
+    "title": "Foutenlogboeken bekijken"
+  },
+  "READ_FEATURE": {
+    "description": "Allows users to access and review application features.",
+    "title": "View application features"
+  },
+  "READ_ORGANIZATION": {
+    "description": "Stelt gebruikers in staat om organisatiedetails te bekijken, zoals bedrijfsinformatie, structuur en gerelateerde entiteiten.",
+    "title": "Bekijk organisatiedetails"
+  },
+  "READ_PROJECT": {
+    "description": "Stelt gebruikers in staat om projectdetails te bekijken, inclusief basisgegevens en toegewezen rollen.",
+    "title": "Bekijk projecten"
+  },
+  "READ_ROLE": {
+    "description": "Stelt gebruikers in staat om roldefinities te bekijken, inclusief toegewezen machtigingen en toegangsrechten.",
+    "title": "Bekijk rollen"
+  },
+  "READ_USER": {
+    "description": "Stelt gebruikers in staat om gebruikersaccounts te bekijken, inclusief basisgegevens en toegewezen rollen.",
+    "title": "Bekijk gebruikers"
+  }
+}
