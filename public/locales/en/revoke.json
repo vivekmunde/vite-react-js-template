@@ -1,0 +1,4 @@
+{
+  "revokeSystemUserAccessConfirmDescription": "Revoking access will remove the system user's access to system administration and all organizations, preventing them from accessing the system or any organizational data. You can reassign access roles to the user later if needed.",
+  "revokeSystemUserAccessConfirmMessage": "Are you sure you want to revoke access of system user \"{{name}}\"?"
+}

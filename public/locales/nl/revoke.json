@@ -1,0 +1,4 @@
+{
+  "revokeSystemUserAccessConfirmDescription": "Het intrekken van toegang zal de toegang van de systeemgebruiker tot systeembeheer en alle organisaties verwijderen, waardoor ze geen toegang meer hebben tot het systeem of organisatiegegevens. U kunt later indien nodig opnieuw toegangsrollen toewijzen aan de gebruiker.",
+  "revokeSystemUserAccessConfirmMessage": "Weet u zeker dat u de toegang van systeemgebruiker \"{{name}}\" wilt intrekken?"
+}

@@ -1,0 +1,28 @@
+{
+  "errorBoundary": {
+    "message": "Er is iets misgegaan. Misschien helpt een snelle refresh?",
+    "title": "Oei! Een kleine hapering!"
+  },
+  "network": {
+    "offline": {
+      "message": "Sieht aus, als hätte Ihre Internetverbindung eine ungeplante Kaffeepause eingelegt. Vielleicht prüfen Sie, ob sie schon vom Urlaub zurück ist?",
+      "title": "Hmmm, wir haben die Verbindung verloren! 🛸"
+    }
+  },
+  "page": {
+    "401": {
+      "description_1": "Het lijkt erop dat je momenteel geen toegang hebt tot deze pagina.",
+      "description_2": "Geen zorgen! Als je denkt dat je dit zou moeten kunnen zien, neem dan even contact op met je beheerder.",
+      "title": "Oeps! Toegang Beperkt!"
+    },
+    "404": {
+      "message": "Oei, dit is ongemakkelijk... De inhoud die je zoekt lijkt spoorloos verdwenen!",
+      "title": "Verdwaald in de ruimte!"
+    },
+    "load": {
+      "message": "Oei! Er ging iets mis bij het laden van de pagina. Misschien lost een snelle herlaadbeurt het op?",
+      "title": "Oeps! De pagina struikelde!"
+    }
+  },
+  "someErrorOccurred": "Er is een fout opgetreden"
+}

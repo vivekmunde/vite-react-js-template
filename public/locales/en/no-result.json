@@ -1,0 +1,10 @@
+{
+  "empty": {
+    "message": "Looks like a fresh start. May the beginning of something great start with you.",
+    "title": "Nothing here... yet!"
+  },
+  "noMatch": {
+    "message": "Looks like your search is playing hide and seek. Try tweaking your criteria and let's find what you're looking for.",
+    "title": "No results... yet!"
+  }
+}

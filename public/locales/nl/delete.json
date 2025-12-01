@@ -1,0 +1,4 @@
+{
+  "deleteConfirmDescription": "Het verwijderen van de record \"{{name}}\" is een permanente verandering en kan niet ongedaan worden gemaakt. Eenmaal verwijderd, kan het niet meer worden hersteld.",
+  "deleteConfirmMessage": "Weet u zeker dat u \"{{name}}\" wilt verwijderen?"
+}
