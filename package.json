@@ -13,7 +13,7 @@
     "format:check": "prettier --check .",
     "preview": "vite preview --port 5050",
     "prepare": "husky",
-    "storybook": "npm run format && npm run tsc && npm run lint && storybook dev -p 5002",
+    "storybook": "npm run format && npm run tsc && npm run lint && storybook dev -p 5052",
     "build-storybook": "npm run format && npm run tsc && npm run lint && storybook build"
   },
   "dependencies": {
