@@ -23,11 +23,7 @@ const OrganizationsMenu: React.FC = () => {
         <Navigate to={`/${organizations?.items?.[0]?.code}/home`} />
       </If.True>
       <If.False>
-        <If
-          condition={
-            user?.category === 'SYSTEM' || (organizations?.total ?? 0) > 0
-          }
-        >
+        <If condition={(organizations?.total ?? 0) > 0}>
           <If.True>
             <DataTestId value="organizations">
               <DataTestId value="menu">
