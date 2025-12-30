@@ -4,14 +4,14 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "npm run format && npm run tsc && npm run lint && vite --port 5000",
+    "dev": "npm run format && npm run tsc && npm run lint && vite --port 5050",
     "build": "npm run format && npm run tsc && npm run lint && vite build",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "tsc": "tsc -b",
     "format": "prettier --write . --log-level silent",
     "format:check": "prettier --check .",
-    "preview": "vite preview --port 5000",
+    "preview": "vite preview --port 5050",
     "prepare": "husky",
     "storybook": "npm run format && npm run tsc && npm run lint && storybook dev -p 5002",
     "build-storybook": "npm run format && npm run tsc && npm run lint && storybook build"
