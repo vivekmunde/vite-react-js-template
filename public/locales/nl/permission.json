@@ -7,10 +7,6 @@
     "description": "Stelt gebruikers in staat om organisatiegerelateerde instellingen en configuraties te maken, bij te werken en te beheren.",
     "title": "Beheer organisatiedetails en configuratie"
   },
-  "MANAGE_PROJECT": {
-    "description": "Stelt gebruikers in staat om projectdetails te maken, bij te werken en te beheren, inclusief basisgegevens en toegewezen rollen.",
-    "title": "Beheer projecten"
-  },
   "MANAGE_ROLE": {
     "description": "Geeft gebruikers de mogelijkheid om rollen te maken, bij te werken en te verwijderen, evenals het beheren van rolgebaseerde machtigingen.",
     "title": "Beheer rollen"
@@ -34,10 +30,6 @@
   "READ_ORGANIZATION": {
     "description": "Stelt gebruikers in staat om organisatiedetails te bekijken, zoals bedrijfsinformatie, structuur en gerelateerde entiteiten.",
     "title": "Bekijk organisatiedetails"
-  },
-  "READ_PROJECT": {
-    "description": "Stelt gebruikers in staat om projectdetails te bekijken, inclusief basisgegevens en toegewezen rollen.",
-    "title": "Bekijk projecten"
   },
   "READ_ROLE": {
     "description": "Stelt gebruikers in staat om roldefinities te bekijken, inclusief toegewezen machtigingen en toegangsrechten.",

@@ -4,7 +4,7 @@ import { DataTestId } from '@/components/ui/data-test-id';
 import { Flex } from '@/components/ui/flex';
 import { Grid } from '@/components/ui/grid';
 import { TypographyHeading, TypographySpan } from '@/components/ui/typography';
-import { BoltIcon, ShieldIcon, UsersIcon } from 'lucide-react';
+import { ShieldIcon, UsersIcon } from 'lucide-react';
 import React from 'react';
 import { useParams } from 'react-router';
 import { MenuItem } from './menu-item';
@@ -37,20 +37,6 @@ const AdministrationMenu: React.FC = () => {
                   <UsersIcon />
                   <TypographySpan>
                     <Translation value="common/user" options={{ count: 2 }} />
-                  </TypographySpan>
-                </MenuItem>
-              </DataTestId>
-            </OrganizationRBAC>
-
-            <OrganizationRBAC permissions={['READ_PROJECT']}>
-              <DataTestId value="projects">
-                <MenuItem href={`/${organizationCode}/projects`}>
-                  <BoltIcon />
-                  <TypographySpan>
-                    <Translation
-                      value="common/project"
-                      options={{ count: 2 }}
-                    />
                   </TypographySpan>
                 </MenuItem>
               </DataTestId>

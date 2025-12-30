@@ -9,8 +9,6 @@ const permissionsSortSequence: Record<TPermission, number> = {
   READ_USER: 6,
   MANAGE_USER: 7,
   READ_ANALYTICS: 8,
-  READ_PROJECT: 9,
-  MANAGE_PROJECT: 10,
 };
 
 const sortPermissions = (permissions: TPermission[]): TPermission[] => {

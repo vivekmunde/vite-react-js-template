@@ -59,11 +59,6 @@ const OrganizationUsersPage = lazy(() =>
     default: m.OrganizationUsersPage,
   }))
 );
-const OrganizationProjectsPage = lazy(() =>
-  import('./[organizationCode]/pages/projects/page').then(m => ({
-    default: m.OrganizationProjectsPage,
-  }))
-);
 
 const PageFallback = () => <PageLoading />;
 
@@ -117,10 +112,6 @@ const Router: React.FC = () => (
             <Route
               path="users"
               element={withSuspense(<OrganizationUsersPage />)}
-            />
-            <Route
-              path="projects"
-              element={withSuspense(<OrganizationProjectsPage />)}
             />
           </Route>
         </Route>

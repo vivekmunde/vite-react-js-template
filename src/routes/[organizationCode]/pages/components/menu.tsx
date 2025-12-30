@@ -9,7 +9,7 @@ import {
   SidebarMenuItem,
 } from '@/components/ui/sidebar-menu';
 import { TypographySpan } from '@/components/ui/typography';
-import { BoltIcon, ShieldIcon, UsersIcon } from 'lucide-react';
+import { ShieldIcon, UsersIcon } from 'lucide-react';
 import React from 'react';
 import { Link, useLocation, useParams } from 'react-router';
 
@@ -63,25 +63,6 @@ const Menu: React.FC = () => {
                       <TypographySpan>
                         <Translation
                           value="common/user"
-                          options={{ count: 2 }}
-                        />
-                      </TypographySpan>
-                    </Link>
-                  </SidebarMenuItem>
-                </DataTestId>
-              </OrganizationRBAC>
-
-              <OrganizationRBAC permissions={['READ_PROJECT']}>
-                <DataTestId value="projects">
-                  <SidebarMenuItem
-                    asChild
-                    active={isActive([`/${organizationCode}/projects`])}
-                  >
-                    <Link to={`/${organizationCode}/projects`}>
-                      <BoltIcon />
-                      <TypographySpan>
-                        <Translation
-                          value="common/project"
                           options={{ count: 2 }}
                         />
                       </TypographySpan>
